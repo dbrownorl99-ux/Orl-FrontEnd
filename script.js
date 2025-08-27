@@ -1,3 +1,4 @@
+window.ORL_BACKEND_URL = 'https://orl-backend.onrender.com/api/upload';
 (function () {
   const form = document.getElementById('uploadForm');
   const statusBox = document.getElementById('status');
